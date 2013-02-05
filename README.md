@@ -1,2 +1,3 @@
-twitterListParse
+Twitter List Parse
+by: Matt Munns
 ================
